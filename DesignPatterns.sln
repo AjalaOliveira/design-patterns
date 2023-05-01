@@ -11,7 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Behavioral Patterns", "
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Factory Method", "Factory Method", "{A2E67B0E-F3BF-4BE5-A4EE-C1A72D43C6B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "1-CreationalPatterns\FactoryMethod\FactoryMethod\FactoryMethod.csproj", "{E670C663-DE14-4791-AEC3-91884DA94F3A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "1-CreationalPatterns\FactoryMethod\FactoryMethod.csproj", "{E670C663-DE14-4791-AEC3-91884DA94F3A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
